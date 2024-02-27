@@ -1,0 +1,28 @@
+<table>
+  <thead>
+    <a href="http://localhost:4200/add-product">
+      <button type="submit" class="btn btn-primary">Add</button>
+    </a>
+    <tr>
+      <th>Hình ảnh</th>
+      <th>Tên sản phẩm</th>
+      <th>Giá tiền</th>
+      <th>Thao tác</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for (product of products; track products.id){
+    <tr>
+      <td><img src="{{ product.image }}" width="80" /></td>
+      <td>{{ product.name }}</td>
+      <td>{{ product.price }}</td>
+      <td>
+        <a href="/edit-product/{{ product.id }}" class="btn btn-primary">Sửa</a
+        ><a class="btn btn-danger" (click)="handleDelProduct(product.id)"
+          >Xóa</a
+        >
+      </td>
+    </tr>
+    }
+  </tbody>
+</table>

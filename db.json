@@ -1,0 +1,187 @@
+{
+  "categories": [
+    {
+      "name": "Kim SeJoeng",
+      "id": "0IzXKuG"
+    },
+    {
+      "name": "Park Seo Joon",
+      "id": "e2mI6Sf"
+    },
+    {
+      "name": "Hannaaaaaaaaaa",
+      "id": "dzwQECO"
+    },
+    {
+      "name": "aloooo111",
+      "id": "XT1WAZj"
+    },
+    {
+      "name": "aloooo",
+      "id": "PR3Flke"
+    },
+    {
+      "name": "ddmmm",
+      "id": "abVSywA"
+    },
+    {
+      "name": "aloooo",
+      "id": "Z05Us4w"
+    }
+  ],
+  "products": [
+    {
+      "name": "iPhone 14 Pro Max +1+3",
+      "price": 2500000,
+      "cate_id": "1",
+      "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp",
+      "detail": "iPhone 14 Pro Max 256GB cũ đẹp 99% - Máy zin nguyên bản, cam kết không tặng máy.",
+      "id": "1"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "price": 9999990,
+      "cate_id": "1",
+      "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp",
+      "detail": "Sản phẩm có trong mình một diện mạo bắt mắt với cửa tạo hình vuông vức bắt xu hướng tương tự thế hệ iPhone 13 series, đây được xem là kiểu thiết kế rất thành công trên các đời thế hệ trước khi tạo nên sốt toàn cầu về kiểu dáng thiết kế điện thoại cho đến nay. ",
+      "id": "2"
+    },
+    {
+      "name": "Samsung Galaxy S23 Ultra",
+      "price": 20890000,
+      "cate_id": "2",
+      "image": "https://media.jacob.services/images/c9/0b/3b/ec/c90b3becd39d246cb4f5176628376b41.jpg",
+      "detail": "- Máy mới chính hãng 100%- Nguyên hộp, đầy đủ phụ kiện từ nhà sản xuất.- Phụ kiện gồm: Cáp, que chọt sim, sách hướng dẫn.- Bảo hành chính hãng 12 tháng tại Samsung trên toàn quốc.- Lỗi là đổi trong 30 ngày.",
+      "id": "3"
+    },
+    {
+      "name": "Hannaaaaaaaaaa1aaaa",
+      "price": 123123,
+      "cate_id": "e2mI6Sf",
+      "image": "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/3.webp",
+      "detail": "aaaa",
+      "id": "5"
+    },
+    {
+      "id": "d047",
+      "name": "booooosa",
+      "price": 12312,
+      "cate_id": 1,
+      "image": "2131",
+      "detail": "12312"
+    },
+    {
+      "id": "6097",
+      "name": "asda",
+      "price": 22,
+      "cate_id": 1,
+      "image": "asd",
+      "detail": "asdasd"
+    },
+    {
+      "id": "24eb",
+      "name": "s",
+      "price": 1,
+      "cate_id": 1,
+      "image": "1",
+      "detail": "1"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "customer_name": "a",
+      "customer_address": "a",
+      "customer_email": "a",
+      "customer_phone_number": 1,
+      "created_date": "a",
+      "status": "a"
+    },
+    {
+      "id": "b18e",
+      "name": "y",
+      "address": "s",
+      "phone": "s",
+      "status": "Đang xử lý"
+    },
+    {
+      "id": "6fd8",
+      "name": "a",
+      "address": "b",
+      "phone": "c",
+      "status": "Đang xử lý"
+    },
+    {
+      "id": "ee47",
+      "name": "a",
+      "address": "a",
+      "phone": "a",
+      "status": "Đang xử lý"
+    },
+    {
+      "id": "02ba",
+      "name": "a",
+      "address": "a",
+      "phone": "a",
+      "status": "Đang xử lý"
+    }
+  ],
+  "orders_details": [
+    {
+      "order_id": "a",
+      "product_id": "a",
+      "quantity": 2,
+      "unit_price": "a",
+      "id": "c5ac"
+    },
+    {
+      "id": "5f73",
+      "orderid": "02ba",
+      "pid": "srBh-wW",
+      "quantity": 1,
+      "unit_price": 123444
+    },
+    {
+      "id": "fa9b",
+      "orderid": "02ba",
+      "pid": "NFe9A__",
+      "quantity": 18,
+      "unit_price": 218214
+    },
+    {
+      "id": "2716",
+      "orderid": "02ba",
+      "pid": "4",
+      "quantity": 19,
+      "unit_price": 2345436
+    },
+    {
+      "id": "1d3e",
+      "orderid": "02ba",
+      "pid": "2",
+      "quantity": 15,
+      "unit_price": 14999985
+    },
+    {
+      "id": "501b",
+      "orderid": "02ba",
+      "pid": "6",
+      "quantity": 10,
+      "unit_price": 121230
+    },
+    {
+      "id": "80b6",
+      "orderid": "02ba",
+      "pid": "7",
+      "quantity": 6,
+      "unit_price": 72738
+    },
+    {
+      "id": "4144",
+      "orderid": "02ba",
+      "pid": "8",
+      "quantity": 11,
+      "unit_price": 133353
+    }
+  ]
+}

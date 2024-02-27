@@ -1,0 +1,10 @@
+.fd-column{flex-direction: column; gap: 20px;}
+.error-message {
+    display: none;
+    color: red;
+  }
+  
+  .error-message.show {
+    display: block;
+  }
+  

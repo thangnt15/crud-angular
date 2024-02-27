@@ -1,0 +1,25 @@
+table {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+thead th,
+tbody td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+thead a button {
+  margin: 20px 0px;
+}
+
+tbody img {
+  display: block;
+  margin: 0 auto;
+}
+
+tbody a {
+  margin-right: 5px;
+}
